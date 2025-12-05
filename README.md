@@ -1,18 +1,18 @@
 informacion de contacto 
 
 Santa Cruz
-Av. Beni y Tercer Anillo Externo.
-(591) 3 342 - 6600
-(591) 721-29166
-infoupds.santacruz@upds.edu.bo
+Av. Beni y Tercer Anillo Externo. <br>
+(591) 3 342 - 6600 <br>
+(591) 721-29166 <br>
+infoupds.santacruz@upds.edu.bo<br>
 
 Redes Sociales <br>
-https://www.facebook.com/UPDS.bo/
-https://www.instagram.com/upds_santacruz/
-https://x.com/udomingosavio
-https://www.youtube.com/user/UPDSsc
-https://www.linkedin.com/company/universidadprivadadomingosavio
-Numero de whatsapp humano : https://api.whatsapp.com/send/?phone=59172129166&text&type=phone_number&app_absent=0
+https://www.facebook.com/UPDS.bo/ <br>
+https://www.instagram.com/upds_santacruz/ <br>
+https://x.com/udomingosavio <br>
+https://www.youtube.com/user/UPDSsc <br>
+https://www.linkedin.com/company/universidadprivadadomingosavio <br>
+Numero de whatsapp humano : https://api.whatsapp.com/send/?phone=59172129166&text&type=phone_number&app_absent=0 <br>
 
 Pagina oficial sede Santa cruz : https://www.upds.edu.bo/sede/santa-cruz/<br>
  Informacion de talento Humano:<br>
